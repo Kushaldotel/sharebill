@@ -18,7 +18,7 @@ A Django-based application that helps college students track and split their dai
 
 ## Tech Stack
 - Backend: Django
-- Database: SQLite (development)
+- Database: PostgreSQL (development)
 - Frontend: Django Templates (placeholder, extendable to modern frameworks)
 
 ## Installation
